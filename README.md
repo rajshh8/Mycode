@@ -1,0 +1,2 @@
+# Mycode
+MAANG and LeetCode
