@@ -1,2 +1,2 @@
-Numpy techniques and basics.
+Numpy techniques and basics
 Data Visualization using Matplotlib.
