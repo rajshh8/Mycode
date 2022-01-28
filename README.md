@@ -1,2 +1,2 @@
-Numpy
-Data Visualization using Matplotlib
+Numpy techniques and basics.
+Data Visualization using Matplotlib.
